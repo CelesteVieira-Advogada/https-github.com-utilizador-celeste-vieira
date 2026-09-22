@@ -1,0 +1,20 @@
+{
+  "name": "agent-starter",
+  "version": "1.0.0",
+  "description": "Minimal AI agent starter project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "agent",
+    "starter",
+    "express"
+  ],
+  "author": "GitHub Copilot",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
